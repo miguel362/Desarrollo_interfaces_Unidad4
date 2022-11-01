@@ -1,0 +1,64 @@
+﻿<Controls:MetroWindow x:Class="P4_Ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P4_Ejercicio1"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1000" ShowTitleBar="False" ShowCloseButton="False" ShowMaxRestoreButton="False" ShowMinButton="False" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="400"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Background="Brown" Grid.RowSpan="3"/>
+        
+        <Image Width="270" Stretch="Fill" Height="195" HorizontalAlignment="Left" Margin="40,100,0,0" Source="imagenes/doble.jfif" />
+        <Image Width="270" Stretch="Fill" Height="195" Source="imagenes/familiar.jfif" Margin="0,100,0,0"/>
+        <Image Width="270" Stretch="Fill" Height="195" HorizontalAlignment="Right" Margin="0,100,40,0" Source="imagenes/suite.jfif" />
+        <RadioButton x:Name="rbDoble" Content="Doble(100€/día)" HorizontalAlignment="Left" Margin="115,325,0,0" Background="Brown" Checked="habilitarCalendario" FontWeight="Bold" Height="25"/>
+        <RadioButton x:Name="rbFamiliar" Content="Familiar(200€/día)" HorizontalAlignment="Center" Margin="0,325,0,0" Background="Brown" Checked="habilitarCalendario" FontWeight="Bold" Height="25"/>
+        <RadioButton x:Name="rbSuite" Content="Suite(300€/día)" HorizontalAlignment="Right" Margin="0,325,115,0" Background="Brown" Checked="habilitarCalendario" FontWeight="Bold" Height="25"/>
+        <TextBlock Grid.Row="1" HorizontalAlignment="Center" Margin="0,20,300,0" Text="Entrada" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBlock Grid.Row="1" HorizontalAlignment="Center" Margin="300,20,0,0" Text="Salida" VerticalAlignment="Top" FontWeight="Bold"/>
+        <DatePicker x:Name="dpCalendarioEntrada" Grid.Row="1" HorizontalAlignment="Center" Margin="0,0,300,0" VerticalAlignment="Center" FirstDayOfWeek="Monday" IsEnabled="False" DisplayDateEnd="2023/12/31" SelectedDateChanged="dpCalendarioEntrada_SelectedDateChanged" Background="BurlyWood" />
+        <DatePicker x:Name="dpCalendarioSalida" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="300,0,0,0" IsEnabled="False" Background="BurlyWood"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" Height="30" HorizontalAlignment="Left" Content="Añadir Reserva" Background="BurlyWood" Click="aniadirReserva" Margin="40,0,0,150"/>
+            <Button Grid.Column="1" Height="30" HorizontalAlignment="Right" Content="Borrar Reserva" Background="BurlyWood" Margin="0,0,40,150" Click="borrar"/>
+            <ListBox x:Name="listBox" HorizontalContentAlignment="Center" VerticalAlignment="Center" Width="295">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Background="BurlyWood">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="2*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock x:Name="txFechaEntradaTexto" Margin="2" FontSize="10" Text="F.Entrada" FontWeight="Bold" Background="BurlyWood"/>
+                            <TextBlock x:Name="txFechaSalidaTexto" Grid.Column="1" Margin="2" FontSize="10" Text="F.Salida" FontWeight="Bold" Background="BurlyWood"/>
+                            <TextBlock x:Name="txTipoHabitacionTexto" Grid.Column="2" Margin="2" FontSize="10" Text="T.Habitación" FontWeight="Bold" Background="BurlyWood"/>                            <TextBlock x:Name="txPrecioTexto" Grid.Column="3" Margin="2" FontSize="10" Text="Precio" FontWeight="Bold" Background="BurlyWood"/>
+                            <TextBlock x:Name="txFechaEntrada" Grid.Row="1" Margin="2" FontSize="10" Text="{Binding fechaEntrada}" FontWeight="Bold" Background="BurlyWood"/>
+                            <TextBlock x:Name="txFechaSalida" Grid.Row="1" Grid.Column="1" Margin="2" FontSize="10" Text="{Binding fechaSalida}" FontWeight="Bold" Background="BurlyWood"/>
+                            <TextBlock x:Name="txTipoHabitacion" Grid.Row="1" Grid.Column="2" Margin="2" FontSize="10" Text="{Binding tipoHabitacion}" FontWeight="Bold" Background="BurlyWood"/>                            <TextBlock x:Name="txPrecio" Grid.Row="1" Grid.Column="3" Margin="2" FontSize="10" Text="{Binding precio}" FontWeight="Bold" Background="BurlyWood"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBlock x:Name="txPrecioFinal" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="14" FontWeight="Bold"/>
+        </Grid>
+        <Label x:Name="lbTitulo" Content="IES.HOTEL SERRA " HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" Height="100" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="40" Margin="0,0,50,0"/>
+    </Grid>
+</Controls:MetroWindow>

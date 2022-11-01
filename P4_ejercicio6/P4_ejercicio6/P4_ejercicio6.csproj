@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ConfiguraVehiculo.PNG" />
+    <None Remove="iconoInformacion.PNG" />
+    <None Remove="iconoVehiculo.PNG" />
+    <None Remove="informacion.PNG" />
+    <None Remove="MostradorVehiculo.PNG" />
+    <None Remove="vehiculoConfigurado.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagenes\ConfiguraVehiculo.PNG" />
+    <Resource Include="imagenes\iconoInformacion.PNG" />
+    <Resource Include="imagenes\iconoVehiculo.PNG" />
+    <Resource Include="imagenes\informacion.PNG" />
+    <Resource Include="imagenes\MostradorVehiculo.PNG" />
+    <Resource Include="imagenes\vehiculoConfigurado.PNG" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5rZSgur6xRRI78csim7I6Y+6lHQrUxCUFXmnasUOeqcXF/ctU/GpuR4vI6jNirK+S+MzZJTFOrzZnI3pWNy/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\Desktop\\2ºDAM\\Desarrollo de Interfaces\\Tema 4\\Práctica\\P4_ejercicio3\\P4_ejercicio3\\P4_ejercicio3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

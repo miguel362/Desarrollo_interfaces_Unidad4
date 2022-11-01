@@ -1,0 +1,268 @@
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe.config
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.pdb
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.g.cs
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\App.g.cs
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.cache
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.lref
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.baml
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.g.resources
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.Properties.Resources.resources
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.GenerateResource.cache
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.exe
+C:\Users\Crist\source\repos\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe.config
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.g.cs
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\App.g.cs
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.cache
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.lref
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.baml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.g.resources
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.Properties.Resources.resources
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.exe
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\migue\Desktop\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.CopyComplete
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe.config
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.exe
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\P4_ejercicio4.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\ControlzEx.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.g.cs
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\App.g.cs
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4_MarkupCompile.lref
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\MainWindow.baml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.g.resources
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.Properties.Resources.resources
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.csproj.CopyComplete
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.exe
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio4\P4_ejercicio4\obj\Debug\P4_ejercicio4.pdb

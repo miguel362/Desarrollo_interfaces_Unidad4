@@ -1,0 +1,49 @@
+﻿<Controls:MetroWindow x:Class="P4_ejercicio3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P4_ejercicio3"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="Mostrador de vehículos" Height="450" Width="800" ShowCloseButton="False" ShowTitleBar="False" ShowMinButton="False" ShowMaxRestoreButton="False"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Border Background="Moccasin">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Grid.Row="1" Grid.Column="1" x:Name="im_imagen" VerticalAlignment="Center"/>
+            <TextBlock x:Name="tx_titulo" Text="Mostrador de Vehículos Toyota" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="40" FontWeight="Bold" Foreground="Brown" Height="50"/>
+            <Button Grid.Column="1" Width="45" Height="50" Margin="220,0,0,0" Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}" Cursor="Arrow">
+                <Image HorizontalAlignment="Center" VerticalAlignment="Center"  Source="imagenes/logo.png" Stretch="Fill"/>
+            </Button>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <ComboBox x:Name="cb_motor" Text="Motor" IsEditable="True" IsReadOnly="True" Width="200" Height="25" SelectionChanged="cb_motor_SelectionChanged">
+                    <ComboBoxItem Content="Combustión"/>
+                    <ComboBoxItem Content="Híbrido"/>
+                    <ComboBoxItem Content="Eléctrico"/>
+                </ComboBox>
+                <ComboBox Grid.Row="1" x:Name="cb_tipo" Text="Tipos de vehículo" IsEditable="True" IsReadOnly="True" Width="200" Height="25" IsEnabled="False" SelectionChanged="cb_tipo_SelectionChanged"/>
+                <ComboBox Grid.Row="2" x:Name="cb_modelos" Text="Modelo" IsEditable="True" IsReadOnly="True" Width="200" Height="25" SelectionChanged="cb_model_SelectionChanged" IsEnabled="False"/>
+            </Grid>
+        </Grid>
+    </Border>
+</Controls:MetroWindow>

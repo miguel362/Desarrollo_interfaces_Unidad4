@@ -1,0 +1,109 @@
+﻿<Controls:MetroWindow x:Class="P4_ejercicio6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P4_ejercicio6"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ShowCloseButton="False" ShowMinButton="False" ShowMaxRestoreButton="False" ShowIconOnTitleBar="False" ShowTitleBar="False">
+    <Controls:MetroWindow.Resources>
+        <ResourceDictionary>
+
+            <!--  Template para todos los items.  -->
+            <DataTemplate x:Key="HamburgerMenuItem" DataType="{x:Type Controls:HamburgerMenuGlyphItem}">
+                <DockPanel Height="48" LastChildFill="True">
+                    <Grid x:Name="IconPart"
+              Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type Controls:HamburgerMenu}}, Path=CompactPaneLength}"
+              DockPanel.Dock="Left">
+                        <Image Margin="12"
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Center"
+                 Source="{Binding Glyph}" />
+                    </Grid>
+                    <TextBlock x:Name="TextPart"
+                   VerticalAlignment="Center"
+                   FontSize="16"
+                   Foreground="Wheat"
+                   Text="{Binding Label}" />
+                </DockPanel>
+            </DataTemplate>
+            <!-- template para cada opción  -->
+            <DataTemplate x:Key="HamburgerOptionsMenuItem" DataType="{x:Type Controls:HamburgerMenuIconItem}">
+                <DockPanel Height="48" LastChildFill="True">
+                    <ContentControl x:Name="IconPart"
+                        Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type Controls:HamburgerMenu}}, Path=CompactPaneLength}"
+                        Content="{Binding Icon}"
+                        DockPanel.Dock="Left"
+                        Focusable="False"
+                        IsTabStop="False" />
+                    <TextBlock x:Name="TextPart"
+                   VerticalAlignment="Center"
+                   FontSize="16"
+                   Text="{Binding Label}" />
+                </DockPanel>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Controls:MetroWindow.Resources>
+    <Controls:HamburgerMenu x:Name="HamburgerMenuControl"
+                          DisplayMode="CompactOverlay"
+                          HamburgerWidth="48"
+                          ItemInvoked="HamburgerMenuControl_OnItemInvoked"
+                          ItemTemplate="{StaticResource HamburgerMenuItem}"
+                          OptionsItemTemplate="{StaticResource HamburgerOptionsMenuItem}">
+        <!--  Cabecera  -->
+        <Controls:HamburgerMenu.HamburgerMenuHeaderTemplate>
+            <DataTemplate>
+                <TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="16"
+                   Foreground="Wheat"
+                   Text="Opciones" />
+            </DataTemplate>
+
+        </Controls:HamburgerMenu.HamburgerMenuHeaderTemplate>
+
+        <!--  Iconos y texto  -->
+        <Controls:HamburgerMenu.ItemsSource>
+            <Controls:HamburgerMenuItemCollection>
+                <Controls:HamburgerMenuGlyphItem Glyph="imagenes/iconoVehiculo.png" ToolTip="imagenes/MostradorVehiculo.png" Label="Mostrador de vehículos" />
+                <Controls:HamburgerMenuGlyphItem Glyph="imagenes/vehiculoConfigurado.png" ToolTip="imagenes/ConfiguraVehiculo.png" Label="Configura tu vehículo" />
+                <Controls:HamburgerMenuGlyphItem Glyph="imagenes/iconoInformacion.png" ToolTip="imagenes/informacion.png" Label="Información para clientes" />
+            </Controls:HamburgerMenuItemCollection>
+        </Controls:HamburgerMenu.ItemsSource>
+
+
+        <!--  Contenido  -->
+        <Controls:HamburgerMenu.ContentTemplate>
+            <DataTemplate>
+                <Grid x:Name="ContentGrid">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="23*"/>
+                        <RowDefinition Height="105*"/>
+                    </Grid.RowDefinitions>
+                    <Border Background="Gray"/>
+                    <TextBlock Text="Mostrador, Configuración e Información" FontSize="25" Foreground="Wheat" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <Controls:TransitioningContentControl Grid.Row="1"
+                                                Content="{Binding}"
+                                                RestartTransitionOnContentChange="True"
+                                                Transition="Default" Grid.RowSpan="2">
+
+                        <Controls:TransitioningContentControl.Resources>
+                            <DataTemplate DataType="{x:Type Controls:HamburgerMenuGlyphItem}">
+                                <Image  Source="{Binding ToolTip}"/>
+                            </DataTemplate>
+
+                            <DataTemplate DataType="{x:Type Controls:HamburgerMenuIconItem}">
+                                <ContentControl Content="{Binding Tag, Mode=OneWay}"
+                                  Focusable="True"
+                                  IsTabStop="False" />
+                            </DataTemplate>
+                        </Controls:TransitioningContentControl.Resources>
+
+                    </Controls:TransitioningContentControl>
+                </Grid>
+            </DataTemplate>
+        </Controls:HamburgerMenu.ContentTemplate>
+    </Controls:HamburgerMenu>
+</Controls:MetroWindow>

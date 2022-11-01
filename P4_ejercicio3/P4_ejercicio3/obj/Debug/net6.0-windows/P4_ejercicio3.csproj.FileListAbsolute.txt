@@ -1,0 +1,124 @@
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.exe
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.deps.json
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.runtimeconfig.json
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.pdb
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3_MarkupCompile.cache
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3_MarkupCompile.lref
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.g.resources
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.AssemblyInfo.cs
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\refint\P4_ejercicio3.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.pdb
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.genruntimeconfig.cache
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\ref\P4_ejercicio3.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\App.baml
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.CopyComplete
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\migue\source\repos\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.exe
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.deps.json
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.runtimeconfig.json
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\P4_ejercicio3.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\ControlzEx.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3_MarkupCompile.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3_MarkupCompile.lref
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\App.baml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.g.resources
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.AssemblyInfo.cs
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.csproj.CopyComplete
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\refint\P4_ejercicio3.dll
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.pdb
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\P4_ejercicio3.genruntimeconfig.cache
+C:\Users\migue\Desktop\2ºDAM\Desarrollo de Interfaces\Tema 4\Práctica\P4_ejercicio3\P4_ejercicio3\obj\Debug\net6.0-windows\ref\P4_ejercicio3.dll

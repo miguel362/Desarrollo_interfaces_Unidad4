@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="auris touring.jfif" />
+    <None Remove="auris.jfif" />
+    <None Remove="CHR.jfif" />
+    <None Remove="highlander.jfif" />
+    <None Remove="logo.png" />
+    <None Remove="prius+.jfif" />
+    <None Remove="prius.jfif" />
+    <None Remove="RAV4.jfif" />
+    <None Remove="yaris.jfif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignColors" Version="2.0.9" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagenes\auris touring.jfif" />
+    <Resource Include="imagenes\auris.jfif" />
+    <Resource Include="imagenes\CHR.jfif" />
+    <Resource Include="imagenes\highlander.jfif" />
+    <Resource Include="imagenes\prius+.jfif" />
+    <Resource Include="imagenes\prius.jfif" />
+    <Resource Include="imagenes\RAV4.jfif" />
+    <Resource Include="imagenes\yaris.jfif" />
+    <Resource Include="imagenes\logo.png" />
+  </ItemGroup>
+
+</Project>

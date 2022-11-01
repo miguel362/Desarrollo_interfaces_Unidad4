@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="asignacion_de_placa.PNG" />
+    <None Remove="configuracion.PNG" />
+    <None Remove="documentacion.PNG" />
+    <None Remove="entrega.PNG" />
+    <None Remove="financiacion.png" />
+    <None Remove="financiacion2.PNG" />
+    <None Remove="garantia.PNG" />
+    <None Remove="imagenes\matriculacion.PNG" />
+    <None Remove="matriculacion.PNG" />
+    <None Remove="modelo.png" />
+    <None Remove="modo_pago.PNG" />
+    <None Remove="renting.PNG" />
+    <None Remove="Reserva.PNG" />
+    <None Remove="seguro.PNG" />
+    <None Remove="vehiculo.jfif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="imagenes\asignacion_de_placa.PNG" />
+    <Resource Include="imagenes\configuracion.PNG" />
+    <Resource Include="imagenes\documentacion.PNG" />
+    <Resource Include="imagenes\entrega.PNG" />
+    <Resource Include="imagenes\financiacion.png" />
+    <Resource Include="imagenes\financiacion2.PNG" />
+    <Resource Include="imagenes\garantia.PNG" />
+    <Resource Include="imagenes\matriculacion.PNG" />
+    <Resource Include="imagenes\modelo.png" />
+    <Resource Include="imagenes\modo_pago.PNG" />
+    <Resource Include="imagenes\renting.PNG" />
+    <Resource Include="imagenes\Reserva.PNG" />
+    <Resource Include="imagenes\seguro.PNG" />
+    <Resource Include="imagenes\vehiculo.jfif" />
+  </ItemGroup>
+
+</Project>
